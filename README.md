@@ -49,10 +49,4 @@ This project implements a system to process image data from CSV files asynchrono
 - Sharp (Image Processing)
 - MySQL (Database)
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
